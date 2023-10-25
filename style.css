@@ -18,6 +18,9 @@ h3 {
     font-size: x-large;
     color: black;
 }
+.card-text {
+    font-size: x-large;
+}
 .carousel {
     width: 100%;
     height: 75vw;
@@ -42,4 +45,13 @@ footer {
 }
 header {
     font-size: x-large;
+}
+.btn {
+    font-size: large;
+}
+.form-control {
+    font-size: large;
+}
+.text-muted {
+    font-size: large;
 }
